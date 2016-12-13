@@ -1,0 +1,12 @@
+total time   NgramList::sortByCount   NgramList::insertNgram   WordList::addWord       Comment
+104.92              97.55                     2.64                    .04            Original code
+
+0.12		    0.00		      0.00		     0.08            Modified(Full Size Array)
+
+0.10		    0			      0			     0.06	     Modified(Array/4)
+
+0.09		    0			      0 		     0.04            Modified(Half size Array)
+
+0.06                0                         0                      0.01            Modified(Array(.6))
+
+
